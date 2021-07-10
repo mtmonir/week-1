@@ -10,7 +10,7 @@ namespace FizzBuzz // scope, prevents name collusion
 
         public static void userInput()
         { 
-            System.Console.WriteLine("Please enter two numbers:");
+            System.Console.WriteLine("Please enter two abc numbers:");
             
 
         }
